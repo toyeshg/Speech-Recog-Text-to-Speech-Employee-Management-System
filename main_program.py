@@ -1,4 +1,4 @@
-ximport mysql.connector as mycon
+import mysql.connector as mycon
 import speech_recognition as sr
 import pyttsx3
 import pandas as pd
